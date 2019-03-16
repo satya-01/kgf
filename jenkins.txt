@@ -1,0 +1,4 @@
+it is continus intrigration tool
+
+jenkins will use for do the work early 
+
