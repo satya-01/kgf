@@ -8,3 +8,7 @@ print (a+b+c)
 
 print (a+b)
 
+print (a-n)
+
+
+
